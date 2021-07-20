@@ -88,6 +88,12 @@ main {
     font-weight: bold;
 }
 
+@media screen and (max-width: 1440px) {
+    main {
+        left: 2.12em;
+    }
+}
+
 @media screen and (max-width: 375px) {
     main {
         position: absolute;
