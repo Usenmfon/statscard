@@ -12,7 +12,8 @@ body {
 
 main {
     position: absolute;
-    top: 10em;
+    top: 5em;
+    bottom: 5em;
     left: 25em;
     height: 40em;
     width: 80em;
